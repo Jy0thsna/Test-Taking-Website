@@ -1,0 +1,17 @@
+#main-head {
+	 padding: 20px;
+	 font-weight: 900;
+}
+
+#timer {
+	background-color: black;
+	border-radius: 5px;
+	font-size: 20px;
+	color: white;
+	padding: 10px;
+	max-width: 100px;
+  	position: sticky;
+  	top: 0px;
+  	margin: auto;
+  	margin-bottom: 20px;
+}
